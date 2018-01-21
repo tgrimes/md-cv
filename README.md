@@ -29,7 +29,7 @@ Edit index.md to update the CV. Run the command:
 
 ```
 cd GitHub/md-cv
-publish.sh
+./publish.sh
 ```
 
 (You may need to [install jekyll](https://jekyllrb.com/docs/installation/).)
@@ -37,7 +37,7 @@ publish.sh
 
 ### Editing css file
 
-Make changes to the `media/cv-screen.css` file.
+Make changes to the `media/cv-screen.css` file. The format for the PDF is set by `media/cv-print.css`. Run `./publish.sh` to update.
 
 
 ### PDF version

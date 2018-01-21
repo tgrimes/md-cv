@@ -6,24 +6,35 @@ title: Tyler Grimes’ CV
 Ph.D. Student and Research Assistant
 
 <div id="webaddress">
-[tyler.grimes@ufl.edu](mailto:tyler.grimes@ufl.edu) 
-| 
-<i class="fa fa-github"></i> <a href="http://github.com/tgrimes”>tgrimes</a> 
-| 
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/TylerLGrimes”>TylerLGrimes</a>
+Address: <i class="fa fa-home" aria-hidden="true"></i>
+2136 SW 39th Dr. | Gainesville, FL 32607
+</div>
+
+<div id="webaddress">
+Phone: <i class="fa fa-phone" aria-hidden="true"></i>
++1 (386) 546-9792
+</div>
+
+<div id="webaddress">
+Email: <i class="fa fa-envelope" aria-hidden="true"></i>
+tyler.grimes@ufl.edu
+</div>
+
+<div id="webaddress">
+GitHub: <i class="fa fa-github"></i> tgrimes
 </div>
 
 
 ## Currently
 
-I’m a Biostatistics Ph.D student at the University of Florida. Current research interests include differential network analysis for genomic association networks and survival analysis using RNA-seq and other high-dimensional data.
+I’m a Biostatistics Ph.D. student at the University of Florida. Current research interests include differential network analysis for genomic association networks and survival analysis using RNA-seq and other high-dimensional data.
 
 ## Education
 
 `2016-` 
-**Ph.D Biostatistics** University of Florida, Gainesville, FL
+**Ph.D. Biostatistics** University of Florida, Gainesville, FL
 
-`2014-16 ` 
+`2014-16` 
 **M.S. Mathematics, concentration in Statistics**, University of North Florida , Jacksonville, FL
 
 Thesis: “A Saddlepoint Approximation to Hypothesis Tests of Variance for Non-normal Populations”
@@ -78,6 +89,7 @@ Walker, A., **Grimes, T.**, Datta, S., Datta, S., Unraveling bacterial fingerpri
 
 **Grimes, T.**, Ping, S., A saddlepoint approximation to hypothesis tests of variance for non-normal populations. In Progress.
 
+
 ## Memberships and Service
 
 ### Member of
@@ -85,7 +97,7 @@ Walker, A., **Grimes, T.**, Datta, S., Datta, S., Unraveling bacterial fingerpri
 `2017-`
 American Statistical Association, International Society for Computational Biology
 
-### Preferee/Reviewer for
+### Preferee/Reviewer
 
 `2017-`
 BMC Bioinformatics
@@ -94,7 +106,7 @@ BMC Bioinformatics
 ### Student organizations
 
 `2017-`
-**President**, Biostatistics Student Organization, University of Florida
+**President** - Biostatistics Student Organization, University of Florida
 
 **Executive Board Member** - Department of Biostatistics Representative, College of Public Health and Health Professionals, Doctoral Student Council, University of Florida
 
@@ -143,14 +155,6 @@ Florida Academic Scholars Award (four-year scholarship)
 `2016-18`
 National Institutes of Health, “Exploratory statistical analysis of differential network behaviors based on gene expression atlas of palate development”, PI: Somnath Datta
 
-
-## Links
-
-<!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:tyler.grimes@ufl.edu”>tyler.grimes@ufl.edu</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/tgrimes”>tgrimes</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/TylerLGrimes”>TylerLGrimes</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/tylerlgrimes/">LinkedIn</a>
 
 ## References
 
