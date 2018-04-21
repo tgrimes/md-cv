@@ -32,15 +32,15 @@ I’m a Biostatistics Ph.D. student at the University of Florida. Current resear
 ## Education
 
 `2016-` 
-**Ph.D. Biostatistics** University of Florida, Gainesville, FL
+**PhD Biostatistics** University of Florida, Gainesville, FL
 
 `2014-16` 
-**M.S. Mathematics, concentration in Statistics**, University of North Florida , Jacksonville, FL
+**MS Mathematics, concentration in Statistics**, University of North Florida , Jacksonville, FL
 
 Thesis: “A Saddlepoint Approximation to Hypothesis Tests of Variance for Non-normal Populations”
 
 `2010-14` 
-**B.S. Mathemtatics, minor in Computer Science** University of Central Florida, Orlando, FL
+**BS Mathemtatics, minor in Computer Science** University of Central Florida, Orlando, FL
 
 
 ## Employment
@@ -54,7 +54,7 @@ Thesis: “A Saddlepoint Approximation to Hypothesis Tests of Variance for Non-n
 ## Teaching Experience
 
 `2016`
-**Instructor** Business calculus, University of North Florida
+**Instructor** Business Calculus, University of North Florida
 
 `2014-16`
 **Teaching Assistant** Elementary statistics courses, University of North Florida
@@ -69,6 +69,12 @@ Thesis: “A Saddlepoint Approximation to Hypothesis Tests of Variance for Non-n
 ### Posters
 
 `2018`
+*UF College of PHHP Research Day*, Gainesville, FL - Predicting Survival Times for Neuroblastoma Patients Using RNA-Seq Expression Profiles
+
+*UF College of Medicine Celebration of Research*, Gainesville, FL - Differential network analysis based on next-generation sequencing data
+
+*UF Graduate Student Research Day*, Gainesville, FL - Predicting Survival Times for Neuroblastoma Patients Using RNA-Seq Expression Profiles
+
 *UF Dept. of Statistics Winter Workshop*, Gainesville, FL - Differential network analysis based on next-generation sequencing
 
 `2017`
@@ -80,7 +86,7 @@ Thesis: “A Saddlepoint Approximation to Hypothesis Tests of Variance for Non-n
 
 <!-- ### Journals -->
 
-`2017`
+`2018`
 **Grimes, T.**, Datta, S., Differential network analysis based on next-generation sequencing data. In Progress.
 
 **Grimes, T.**, Walker, A., Datta, S., Datta, S., Predicting survival times for neuroblastoma patients using RNA-Seq expression profiles. Under Review.
@@ -95,9 +101,9 @@ Walker, A., **Grimes, T.**, Datta, S., Datta, S., Unraveling bacterial fingerpri
 ### Member of
 
 `2017-`
-American Statistical Association, International Society for Computational Biology
+American Statistical Association (ASA); International Society for Computational Biology (ISCB)
 
-### Preferee/Reviewer
+### Referee/Reviewer
 
 `2017-`
 BMC Bioinformatics
@@ -110,44 +116,30 @@ BMC Bioinformatics
 
 **Executive Board Member** - Department of Biostatistics Representative, College of Public Health and Health Professionals, Doctoral Student Council, University of Florida
 
-## Technical experience
-
-* R
-* LaTeX
-* Python
-* C/C++
-* Java
-* HTML and CSS
-
-
-## Areas of expertise
-
-* Statistics
-
 ## Projects
 
 ### github
 
-My [github account](https://github.com/tgrimes) hosts various projects including R packages like [SeqNet](https://github.com/tgrimes/SeqNet), course projects like a [stochastic approximation algorithm for minimum graph bisection](https://github.com/tgrimes/UF-PHC6068/blob/master/Project/SAA_and_SAMC_for_minimum_graph_bisection.pdf), conference challeneges like the [CAMDA 2017 Neuroblastoma challenge](https://github.com/tgrimes/CAMDA-2017---Neuroblastoma), and other personal projects.
+My [github account](https://github.com/tgrimes) hosts various projects including R packages like [SeqNet](https://github.com/tgrimes/SeqNet), course projects such as a [stochastic approximation algorithm for minimum graph bisection](https://github.com/tgrimes/UF-PHC6068/blob/master/Project/SAA_and_SAMC_for_minimum_graph_bisection.pdf), conference challeneges including the [CAMDA 2017 Neuroblastoma challenge](https://github.com/tgrimes/CAMDA-2017---Neuroblastoma), and other personal projects.
 
 ## Honors and Awards
 
 `2017`
-Travel fellowship from ISCB to present at ISMB/ECCB 2017, Prague, Czech Republic
+*Travel fellowship* from ISCB to present at ISMB/ECCB 2017, Prague, Czech Republic
 
-PHHP PhD Student Travel Award
+*PhD Student Travel Award* from the College of Public Health and Health Professionals, University of Florida
 
 `2016`
-Outstanding Graduate Student in Statistics, University of North Florida
+*Outstanding Graduate Student in Statistics*, University of North Florida
 
 `2010-14`
-Dean’s List, University of Central Florida (multiple awards)
+*Dean’s List*, University of Central Florida (multiple awards)
 
 `2012-13`
-UCF Scholars Award (scholarship and summer grant)
+*UCF Scholars Award* (scholarship and summer grant)
 
 `2010`
-Florida Academic Scholars Award (four-year scholarship)
+*Florida Academic Scholars Award* (four-year scholarship)
 
 
 ## Funding
@@ -162,4 +154,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: Jan. 2018 -->
+Last updated: April 21, 2018 -->
