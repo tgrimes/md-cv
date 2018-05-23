@@ -69,6 +69,8 @@ Thesis: “A Saddlepoint Approximation to Hypothesis Tests of Variance for Non-n
 ### Posters
 
 `2018`
+*IISA International Conference on Statistics*, Gainesville, FL - Predicting Survival Times for Neuroblastoma Patients Using RNA-Seq Expression Profiles
+
 *UF College of PHHP Research Day*, Gainesville, FL - Predicting Survival Times for Neuroblastoma Patients Using RNA-Seq Expression Profiles
 
 *UF College of Medicine Celebration of Research*, Gainesville, FL - Differential network analysis based on next-generation sequencing data
@@ -87,13 +89,16 @@ Thesis: “A Saddlepoint Approximation to Hypothesis Tests of Variance for Non-n
 <!-- ### Journals -->
 
 `2018`
-**Grimes, T.**, Datta, S., Differential network analysis based on next-generation sequencing data. In Progress.
 
-**Grimes, T.**, Walker, A., Datta, S., Datta, S., Predicting survival times for neuroblastoma patients using RNA-Seq expression profiles. Under Review.
+**Grimes, T.**, Datta, S., (In progress) An exploratory approach for identifying novel biomarkers in high-risk cancer  patients from RNA-seq data.
 
-Walker, A., **Grimes, T.**, Datta, S., Datta, S., Unraveling bacterial fingerprints of city subways from microbiome 16S gene profiles. Under Review.
+**Grimes, T.**, Potter, S., Datta, S., (In progress) Differential network analysis of biological pathways using RNA-sequencing data.
 
-**Grimes, T.**, Ping, S., A saddlepoint approximation to hypothesis tests of variance for non-normal populations. In Progress.
+**Grimes, T.**, Walker, A., Datta, S., Datta, S., (To appear) Predicting survival times for neuroblastoma patients using RNA-Seq expression profiles. *Biology direct*
+
+Walker, A., **Grimes, T.**, Datta, S., Datta, S., (2018) Unraveling bacterial fingerprints of city subways from microbiome 16S gene profiles. *Biology direct*
+
+**Grimes, T.**, Ping, S., (In progress) A saddlepoint approximation to hypothesis tests of variance for non-normal populations. 
 
 
 ## Memberships and Service
@@ -111,9 +116,10 @@ BMC Bioinformatics
 
 ### Student organizations
 
+`2018-` **Seminar Committee Chair** College of Public Health and Health Professionals, Doctoral Student Council, University of Florida
+
 `2017-`
 **President** - Biostatistics Student Organization, University of Florida
-
 **Executive Board Member** - Department of Biostatistics Representative, College of Public Health and Health Professionals, Doctoral Student Council, University of Florida
 
 ## Projects
