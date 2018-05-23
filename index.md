@@ -120,13 +120,14 @@ BMC Bioinformatics
 
 `2017-`
 **President** - Biostatistics Student Organization, University of Florida
+
 **Executive Board Member** - Department of Biostatistics Representative, College of Public Health and Health Professionals, Doctoral Student Council, University of Florida
 
 ## Projects
 
 ### github
 
-My [github account](https://github.com/tgrimes) hosts various projects including R packages like [SeqNet](https://github.com/tgrimes/SeqNet), course projects such as a [stochastic approximation algorithm for minimum graph bisection](https://github.com/tgrimes/UF-PHC6068/blob/master/Project/SAA_and_SAMC_for_minimum_graph_bisection.pdf), conference challeneges including the [CAMDA 2017 Neuroblastoma challenge](https://github.com/tgrimes/CAMDA-2017---Neuroblastoma), and other personal projects.
+My [github account](https://github.com/tgrimes) hosts various projects, including the R package [SeqNet](https://github.com/tgrimes/SeqNet) that simulates RNA-sequencing data from any underlying association network; course projects such as a [stochastic approximation algorithm for minimum graph bisection](https://github.com/tgrimes/UF-PHC6068/blob/master/Project/SAA_and_SAMC_for_minimum_graph_bisection.pdf); conference challeneges including the [CAMDA 2017 Neuroblastoma challenge](https://github.com/tgrimes/CAMDA-2017-Neuroblastoma); and other personal projects.
 
 ## Honors and Awards
 
